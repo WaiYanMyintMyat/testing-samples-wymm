@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
- // This is Wai Yan MM
+ // This is Wai Yan MM Testing
 
 package com.example.android.testing.ServiceTestRuleSample;
 
